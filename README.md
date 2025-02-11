@@ -85,3 +85,5 @@ pantalla.
 6.2. Permitir la actualización de la base de datos con nuevos registros. 
 7. Interfaz de usuario (UI) 
 Diseñar una interfaz gráfica amigable con botones e información estructurada. 
+
+![Diagrama del proyecto](https://github.com/AlejandroLog/FruitScannerDescription/blob/320a241e097505e9df31d5d1672a7db181a08c3b/diam1.jpg)
