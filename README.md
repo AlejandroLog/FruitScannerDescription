@@ -8,13 +8,11 @@ Principales Características:
 
 Captura y procesamiento de imágenes: Uso de OpenCV/TensorFlow para mejorar la detección de frutas.
 
-Reconocimiento de frutas: Clasificación de piña, papaya, naranja y plátano con un modelo de Machine Learning (85%+ precisión).
+Reconocimiento de frutas: Clasificación de piña, papaya, naranja y plátano con un modelo de Machine Learning knn.
 
 Información Nutricional: Datos detallados sobre calorías, vitaminas, proteínas y más.
 
-Checador de precio: Comparación de precios en distintas tiendas.
-
-Recetas personalizadas: Sugerencias de recetas en base a la fruta detectada.
+Recetas personalizadas: Sugerencias de recetas en base a la fruta detectada via youtube.
 
 Base de datos integrada: Almacenamiento y actualización de datos con Firebase o SQL Server.
 
