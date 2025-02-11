@@ -26,11 +26,11 @@ Desarrollo iterativo con retroalimentación de usuarios.
 ## Integrantes del Equipo
 Lista de los miembros del equipo junto con sus roles.
 
-- **Samuel Alejandro Vilchis Cisneros** - Rol (Administrador, Desarrollador)
-- **Salvador Lozano Galvan** - Rol (Desarrollador)
-- **Antonio Perez Cabrera** - Rol (Desarrollador)
-- **Jaime Eduardo Zermeño Andrade** - Rol (Desarrollador)
-- **Jesus Alejandro Torres Lopez** - Rol (Desarrollador)
+- **Samuel Alejandro Vilchis Cisneros** - Rol (Administrador, Desarrollador) GitHub: https://github.com/AlejandroLog
+- **Salvador Lozano Galvan** - Rol (Desarrollador) GitHub: https://github.com/LOGAS-7
+- **Antonio Perez Cabrera** - Rol (Desarrollador) GitHub: https://github.com/antonio-pcabrera
+- **Jaime Eduardo Zermeño Andrade** - Rol (Desarrollador) GitHub: https://github.com/jaimeZ-code
+- **Jesus Alejandro Torres Lopez** - Rol (Desarrollador) GitHub: https://github.com/jesto32
 
 
 
