@@ -32,6 +32,28 @@ Lista de los miembros del equipo junto con sus roles.
 - **Jaime Eduardo Zermeño Andrade** - Rol (Desarrollador) GitHub: https://github.com/jaimeZ-code
 - **Jesus Alejandro Torres Lopez** - Rol (Desarrollador) GitHub: https://github.com/jesto32
 
+## Objetivo del proyecto
+Desarrollar una aplicación capaz de reconocer frutas a partir de imágenes capturadas en tiempo real, proporcionando información detallada sobre su nombre, características nutricionales y precio en el mercado. La aplicación debe contar con una interfaz intuitiva, un sistema de autenticación seguro y la posibilidad de escalar en el futuro mediante la integración con APIs externas y la adición de nuevas frutas.
+
+## Alcance del proyecto
+Captura y procesamiento de imágenes: Implementación de un sistema que permita tomar fotos en tiempo real y optimizar la imagen para su clasificación.
+
+Reconocimiento de frutas: Uso de algoritmos de visión artificial para identificar frutas como piña, papaya, naranja y plátano con una precisión mínima del 85%.
+
+Visualización de información nutricional: Presentación de datos relevantes como calorías, vitaminas, carbohidratos y proteínas.
+
+Consulta de precios: Obtención del precio estimado de la fruta en diferentes tiendas.
+
+Sugerencias de recetas: Integración con plataformas como YouTube para mostrar recetas relacionadas con la fruta detectada.
+
+Base de datos: Almacenamiento de información de frutas y recetas, con posibilidad de actualización de registros.
+
+Interfaz de usuario (UI): Diseño de una aplicación intuitiva y minimalista, accesible para usuarios sin conocimientos técnicos.
+
+Seguridad y autenticación: Implementación de control de acceso para evitar modificaciones no autorizadas en la base de datos.
+
+Escalabilidad: Posibilidad de agregar más frutas y mejorar la precisión del modelo sin alterar la estructura base del sistema.
+
 
 
 ## Requerimientos
