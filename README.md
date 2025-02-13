@@ -108,6 +108,40 @@ pantalla.
 7. Interfaz de usuario (UI) 
 Diseñar una interfaz gráfica amigable con botones e información estructurada.
 
+# Metodología a utilizar
+## Planificación
+- Definir objetivos, alternativas y restricciones.
+- Estimar recursos y costos.
+
+## Análisis de Riesgos
+- Identificar y evaluar riesgos potenciales.
+- Desarrollar estrategias de mitigación.
+
+## Desarrollo y Validación
+- Crear prototipos.
+- Probar y validar el diseño.
+
+## Evaluación del Cliente
+- Obtener retroalimentación del cliente.
+- Ajustar el plan y los requisitos según sea necesario.
+
+## Características Claves
+- **Iterativa**: Se repite en ciclos llamados "espirales".
+- **Enfocada en el Riesgo**: Prioriza la identificación y gestión de riesgos.
+- **Flexible**: Permite ajustes en cada ciclo según la retroalimentación y nuevas necesidades.
+
+## Ventajas
+- Manejo efectivo de riesgos.
+- Flexibilidad para cambios y ajustes.
+- Retroalimentación continua del cliente.
+
+## Desventajas
+- Puede ser costosa debido a la planificación y análisis exhaustivos.
+- Requiere experiencia en la gestión de proyectos y riesgos.
+## Diagrama
+![Diagrama del proyecto](https://github.com/AlejandroLog/IndividualReadme/blob/8a2c557a679777c5c5809d7800d91a8dc835711e/espiral.jpg)
+
+
 ## Diagrama de clases
 ![Diagrama del proyecto](https://github.com/AlejandroLog/FruitScannerDescription/blob/320a241e097505e9df31d5d1672a7db181a08c3b/diam1.jpg)
 ![Diagrama del proyecto](https://github.com/AlejandroLog/FruitScannerDescription/blob/eb0e8643d682a3c59c24f7765a12fd3c19972d83/diam2.jpg)
