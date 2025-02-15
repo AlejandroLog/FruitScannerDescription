@@ -108,6 +108,11 @@ pantalla.
 7. Interfaz de usuario (UI) 
 Diseñar una interfaz gráfica amigable con botones e información estructurada.
 
+# Diagramas del proyecto
+
+[Enlace al repositorio DiagramasScannerFruit](https://github.com/AlejandroLog/DiagramasScannerFruit)
+
+
 # Metodología a utilizar
 ## Planificación
 - Definir objetivos, alternativas y restricciones.
