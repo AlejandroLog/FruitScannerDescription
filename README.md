@@ -113,7 +113,7 @@ Diseñar una interfaz gráfica amigable con botones e información estructurada.
 [Enlace al repositorio DiagramasScannerFruit](https://github.com/AlejandroLog/DiagramasScannerFruit)
 
 
-# Metodología a utilizar
+# Metodología Espiral
 ## Planificación
 - Definir objetivos, alternativas y restricciones.
 - Estimar recursos y costos.
