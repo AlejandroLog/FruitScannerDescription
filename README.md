@@ -103,6 +103,9 @@ Desarrollar una aplicación capaz de reconocer frutas a partir de imágenes capt
 ![Diagrama Espiral](https://github.com/AlejandroLog/IndividualReadme/blob/8a2c557a679777c5c5809d7800d91a8dc835711e/espiral.jpg)  
 
 ---
+## Tablero Kanban
+https://github.com/users/AlejandroLog/projects/4
+---
 
 ## 📝 Diagramas del Proyecto
 📌 [Repositorio de Diagramas ScannerFruit](https://github.com/AlejandroLog/DiagramasScannerFruit)  
