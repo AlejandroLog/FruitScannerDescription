@@ -111,6 +111,10 @@ https://github.com/users/AlejandroLog/projects/4
 📌 [Repositorio de Diagramas ScannerFruit](https://github.com/AlejandroLog/DiagramasScannerFruit)  
 ---
 
+## 📝 Interfaces de Usuario
+📌 [Interfaces de usuario](https://github.com/AlejandroLog/Interfaces_Fruit)
+---
+
 🚀 **Este proyecto busca revolucionar el reconocimiento de frutas con tecnología de punta. ¡Contribuye y sé parte de esta innovación!** 🌍🍎🤖
 
 
