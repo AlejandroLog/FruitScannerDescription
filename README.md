@@ -126,7 +126,7 @@ https://github.com/users/AlejandroLog/projects/4
 ---
 
 ## 📝 Imagenes de las frutas
-📌 [Imagenes](https://github.com/AlejandroLog/FruitScannerCode/blob/main/IMG_8353.JPG)  
+📌 [Imagenes](https://github.com/AlejandroLog/FruitScannerCode/tree/main/frutas)  
 ---
 
 🚀 **Este proyecto busca revolucionar el reconocimiento de frutas con tecnología de punta. ¡Contribuye y sé parte de esta innovación!** 🌍🍎🤖
